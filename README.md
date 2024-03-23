@@ -17,6 +17,12 @@ This repository permit to convert PagerDuty webhook v3 into Discord webhook
 
 - PHP: >= 8.0.9 ( from dependency )
 
+## Contribution
+
+Feel free to contribute on this project.
+
+Some webhooks are not yet handled such as escalation, but when a not hanlded webhook is recieved, it's stored in the `requests.json`
+
 ## Screenshots
 
 ![Screenshot of notifications](screenshots/discord-messages.png "Screenshots of notifications")
